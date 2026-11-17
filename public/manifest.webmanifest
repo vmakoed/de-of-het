@@ -1,0 +1,17 @@
+{
+  "name": "De of het?",
+  "short_name": "De/het",
+  "description": "Zie meteen of een Nederlands woord de of het is. Werkt ook offline.",
+  "lang": "nl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#056DFF",
+  "background_color": "#F5F7F9",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
